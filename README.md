@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center" text >A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=visharma14&label=Profile%20views&color=0e75b6&style=flat" alt="visharma14" /> </p>
-
 - 🔭 I’m currently working on **Jansoochna Mobile App**. Website Link: **[Jansoochna.Rajasthan.Gov.In](https://jansoochna.rajasthan.gov.in/)**
 
 - 🌱 I’m currently learning **NextJs, NodeJs and Redux-ToolKit**
@@ -15,7 +13,6 @@
 
 - ⚡ Fun fact **My Mind Always Overthinking**
 
-<p align="left"> <a href="https://twitter.com/vishaldev4972" target="blank"><img src="https://img.shields.io/twitter/follow/vishaldev4972?logo=twitter&style=for-the-badge" alt="vishaldev4972" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visharma14&" alt="visharma14" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visharma14" alt="visharma14" /></a> </p>
